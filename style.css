@@ -103,6 +103,10 @@ article ol {
 font-size:23px;
 }
 
+article ul {
+font-size:23px;
+}
+
 article p {
     color:rgba(221, 229, 233, 0.8)
 }
