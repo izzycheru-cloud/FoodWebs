@@ -91,13 +91,13 @@ article h1 {
  margin-left:5px;
 }
 .nestedsect {
-    /* background-color:rgb(38, 44, 44); */
+    background-color:rgb(38, 44, 44);
     width:75%;
     height:30%;
     margin-left:10px;
     border-radius:5px;
     border:1px solid rgb(219, 236, 216);
-    background-image: linear-gradient(to right, rgb(39, 36, 36), rgb(28, 31, 27));
+    background-image: linear-gradient(to right, rgb(43, 38, 38), rgb(28, 31, 27));
 }
 
 article ol {
